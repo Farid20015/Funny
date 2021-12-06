@@ -1,4 +1,4 @@
-awhu
+Funny
 =======
 
-awhu is licensed under the MIT license (see `LICENSE.txt <LICENSE.txt>`_).
+Funny is licensed under the MIT license (see `LICENSE.txt <LICENSE.txt>`_).
